@@ -1,7 +1,7 @@
 # jquery-soltmachine
 jquery 老虎机，可设置停止位置
 
-##使用
+## 使用
 ```
 // machine init.
 var machine = $("#machine").slotMachine({
@@ -18,4 +18,4 @@ machine.stop;
 
 ```
 That's all.
-jquery-soltmachine is fork from https://josex2r.github.io/jQuery-SlotMachine/
+### Just fork from https://josex2r.github.io/jQuery-SlotMachine/
